@@ -2,6 +2,10 @@
 
 Exemplo para geracao de QRCode PIX padrão BRCODE https://www.gerarpix.com.br/
 
+## Manual de especificações do PIX
+
+https://www.bcb.gov.br/content/estabilidadefinanceira/spb_docs/ManualBRCode.pdf
+
 ## Setup
 
 Instalar Nodejs, versão no `.tool-versions`
